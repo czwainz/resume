@@ -1,0 +1,13 @@
+header{
+  text-align: center;
+  background-color: springgreen;
+  text-shadow: 2px 2px 8px whitesmoke;
+}
+main h1  {
+  color: yellow;
+  text-shadow: 2px 2px 4px black;
+}
+
+main h1:hover {
+  color:rgb(73, 255, 155);
+}
